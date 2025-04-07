@@ -1,0 +1,15 @@
+.left{
+    width: 75%;
+    float:left;
+}
+.right{
+    width:25%;
+    float:left;
+}
+.container{
+    width:100%;
+}
+.body{
+    background-color:black;
+    color:white;
+}
